@@ -1,0 +1,59 @@
+web page
+
+
+https://ujualk.github.io/woodland/
+
+https://ujualk.github.io/Netflix/
+
+I made replicas of home page of two real website using HTML and CSS by the help of Visual Studio(VSS).The first website
+ is the official home page of Woodland and second one is the official home page of Netflix.Woodland is a fashion brand
+ and Netflix is an ott platform.It took four days for me to complete the two websites.I mainly used display flex property in
+css to design my pages.First i made a blue print of the web site that i want to make,that give me a clear idea of which 
+direction i want to go for the website design.First I made a trail Facebook home page to make my concept clear.Then I move to
+ my first website.
+
+
+
+
+
+
+HTML(The Hypertext Markup Language) and CSS(Cascading Style Sheets)are two of the core technologies for building web pages.
+HTML describe the structure of a web page.HTML consist of series of element.HTML elements
+tell the browser how to display the content.CSS used to sets the style in web pages that contain HTML elements.It sets the
+font size,background colour,colour etc.I mainly used display flex property in CSS for designing my home pages.By usig this
+property we can align content of our pages easily.First i need to 
+learn the basics of HTML and CSS.So i took  lessons from various  you tube channels,like Brototype,Debug media,Kevin powell
+.These channels helps me to understand the basics,Also W33 website helps to clear my doubts.Batch mates also helped to clear 
+the doubts.
+
+
+affirmations
+
+https://docs.google.com/document/d/1FTTgFFK6ra95Hg_SpDFMgU8khdk5-hZtzM8Co4mD-NE/edit?usp=sharing
+
+
+Whether you’re feeling proud of yourself after a major accomplishment or feeling down on yourself after a day when you
+ can’t seem to get it right, the way you talk to yourself matters. So I choose these affirmation that is perfect for me.
+When i repeat this short phrases i can change the way i think and feel good about myself.This affirmations  relates to 
+my  personal goal and my future . Experts recommend keeping it brief and making sure it feels authentic to you.
+So i decided to keep it short.When i am feeling low then i started chanting these affirmation in my mind,and it give me
+a special force to get back and continue my work.These affirmation help to keep my work ethics.
+
+
+
+
+
+vision board
+
+https://docs.google.com/document/d/1hhDcwh3-6HbBhRGCw4P7H3HGq1DpaXJ5nrV-_lWsbWU/edit?usp=sharing
+
+
+
+
+The vision board I created portray the dreams I want to achieve.I used canva application to create my vision board.
+when  I look at the vision board everyday it give me a special motivation to work hard and remind me of the blossom
+future ahead.The vision board consist of the house that I want to own,a Toyota Camry car I want to buy,My dream job
+in one of the biggest MNC  Netflix,My fitness goals,the dream of Watch a live match in Campnou stadium located in Barcelona,the 
+place I want to travel,The investment i want to make in future,and the well being of my family and friends.To achieve
+ these things first i need to attain financial stability.So that is a important part in my vision board.
+
